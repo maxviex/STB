@@ -1,4 +1,15 @@
-Tentu! Berikut adalah redame yang bisa Anda gunakan di GitHub:
+INSTALL CHROME 
+
+Periksa dan pastikan Chromium terinstal:
+
+**sudo apt update
+sudo apt install chromium***
+
+Cek lokasi binary Chromium:
+
+***which chromium-browser
+# atau
+which chromium***
 
 ---
 
